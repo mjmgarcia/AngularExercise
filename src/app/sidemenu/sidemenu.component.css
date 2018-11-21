@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #404C51;
+  }
+  
+  .navbar-menu {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 210px;
+  
+    background-color: #6e6d6c;
+  
+    list-style: none;
+  }
+  
+  .navbar-menuitem {
+    padding: 15px;
+  }
+  
